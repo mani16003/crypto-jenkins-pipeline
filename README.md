@@ -47,7 +47,7 @@ Setup & Installation
 
 # Clone the repository:
 
-git clone https://github.com/your-username/crypto-ci-cd-pipeline.git
+git clone https://github.com/mani16003/crypto-ci-cd-pipeline.git
 cd crypto-ci-cd-pipeline
 
 Configure Jenkins pipeline with the Jenkinsfile provided.
